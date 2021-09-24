@@ -5,14 +5,15 @@ such as:
 
 
 Popular times of travel
-The most common month
-The most common day of week
-The most common hour of day
+,The most common month
+,The most common day of week
+& The most common hour of day
+
 
 Popular stations and trip
-The most common start station
-The most common end station
-The most common trip from start to end
+,The most common start station
+,The most common end station
+& The most common trip from start to end
 
 and more other questions
 
