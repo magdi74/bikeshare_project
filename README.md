@@ -18,6 +18,7 @@ and more other questions
 
 
 How to run:
+
 clone the repository after that download the packages then run the bikeshare_2.py
 
 at the begining you choose a city from the valid cities.
